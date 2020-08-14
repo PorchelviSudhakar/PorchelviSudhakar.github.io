@@ -25,13 +25,13 @@ Sysbiz Technologies Pvt Ltd, Chennai
 Senior Software Engineer                                                                 Jan17 – Jul19
 ---------
 
- -●	Created Web applications with UI using Vaadin Framework and business logic using Spring REST and Hibernate which played a major role in the loose coupling between UI and business logic.
- -●	Performance tuning was done in SQL queries by making changes in table joins and by creating a non-clustered index to a table.
- -●	Included a Multi-Threading Concept in Forecasting revenue recognition module in which the parallel execution of independent procedures improved the performance of the loading time of the module.
- -●	Used Apache POI in Excel for aggregation operations for parent level from lower-level data in a hierarchy instead of using SQL Queries to derive parent level aggregation which drastically reduced the query fetching time and customization time which in turn improved the downloading time of Excel.   
- -●	Experience in analysis, designing, developing MVC Pattern multi-tiered applications in the J2EE environment.
- -●	Provided input to work project plan, performed a technical review of applications and peer's work and developed proposals for improvements.
- -●	Worked with engineering managers to develop and improve coding standards, design patterns, and practices and to develop integrated features and tools.
+●	Created Web applications with UI using Vaadin Framework and business logic using Spring REST and Hibernate which played a major role in the loose coupling between UI and business logic.
+●	Performance tuning was done in SQL queries by making changes in table joins and by creating a non-clustered index to a table.
+●	Included a Multi-Threading Concept in Forecasting revenue recognition module in which the parallel execution of independent procedures improved the performance of the loading time of the module.
+●	Used Apache POI in Excel for aggregation operations for parent level from lower-level data in a hierarchy instead of using SQL Queries to derive parent level aggregation which drastically reduced the query fetching time and customization time which in turn improved the downloading time of Excel.   
+●	Experience in analysis, designing, developing MVC Pattern multi-tiered applications in the J2EE environment.
+●	Provided input to work project plan, performed a technical review of applications and peer's work and developed proposals for improvements.
+●	Worked with engineering managers to develop and improve coding standards, design patterns, and practices and to develop integrated features and tools.
 
 Software Engineer                                                                          Jan16 - Dec 16
 ----------
@@ -80,13 +80,6 @@ Title: Cooperative positioning and continuous mobile activity tracking
 Front End	:  Java JDK 1.5, Android, Eclipse
 
 Domain            	:   Mobile Computing
-
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
 Languages Known: 
 ======
