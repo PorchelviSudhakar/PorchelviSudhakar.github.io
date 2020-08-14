@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-ABOUT
-========
 
 I have 4 years of experience as a Java Programmer in different stages of Software Development and Project Management includes duties of Daily Status Report (DSR), Development and Implementation, Unit Testing, Root Cause Analysis, Defect Fixing and Technical Assistance. I have hands-on working experience in agile scrum sprints and worked on various code optimization techniques.
 
