@@ -1,6 +1,8 @@
 # main links links
 main:
   
+  - title: "Code"
+    url: https://github.com/PorchelviSudhakar
     
   - title: "Portfolio"
     url: /portfolio/  
