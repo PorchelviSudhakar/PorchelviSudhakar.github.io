@@ -1,11 +1,11 @@
 # main links links
 main:
-  
-  - title: "Code"
-    url: https://github.com/PorchelviSudhakar
+        
+  - title: "Curriculum Vitae"
+    url: /cv/ 
     
-  - title: "CV"
-    url: /cv/    
+   - title: "Code"
+    url: https://github.com/PorchelviSudhakar
     
   
       
