@@ -4,11 +4,12 @@ main:
   - title: "Code"
     url: https://github.com/PorchelviSudhakar
     
+  - title: "CV"
+    url: /cv/    
+    
   - title: "Portfolio"
     url: /portfolio/  
       
-  - title: "CV"
-    url: /cv/
-    
+ 
   - title: "Guide"
     url: /markdown/
